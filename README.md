@@ -2,7 +2,7 @@
 
 An expense tracker is like a digital notebook that helps you keep track of all you’re spending.
 
-Skill Used: Python, SQL(SQLite), Tkinter (GUI)  
+Skill Used: Python, SQL(SQLite), Tkinter (GUI)
 
 GUI Features:
 
