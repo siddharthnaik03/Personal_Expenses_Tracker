@@ -3,6 +3,7 @@
 An expense tracker is like a digital notebook that helps you keep track of all you’re spending.
 
 GUI Features:
+
 •	Date Entry: Enter the date of the expense in the provided field.
 
 •	Name Entry: Specify the category or type of expense (e.g., groceries, utilities).
